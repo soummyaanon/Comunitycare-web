@@ -88,24 +88,35 @@
     
 
 
-   <section class="contactme" id="contactme">
-    <div class="max-width">
-        <h1 class="contactme-main">CONTACT US</h1>
-        <div class="container">
-            <form>
-                <label for="fname">First Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Enter First Name">
-                <label for="lname">Last Name</label>
-                <input type="text" id="lname" name="lastname" placeholder="Enter Last Name">
-                <label for="email">E-mail</label>
-                <input type="text" id="email" name="email" placeholder="abc@xyz.com">
-                <label for="subject">Subject</label>
-                <textarea id="subject" name="subject" placeholder="Write something" style="height:150px"></textarea>
-                <input type="submit" value="Submit">
-            </form>
+     <section class="contactme" id="contactme">
+        <div class="max-width">
+            <h1 class="contactme-main">CONTACT US</h1>
+            <div class="container">
+                <form id="contactForm">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname" placeholder="Enter First Name">
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lastname" placeholder="Enter Last Name">
+                    <label for="email">E-mail</label>
+                    <input type="text" id="email" name="email" placeholder="abc@xyz.com">
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something" style="height:150px"></textarea>
+                    
+                    <!-- Add the rating system -->
+                    <label for="rating">Rate Us:</label>
+                    <select id="rating" name="rating">
+                        <option value="5">Excellent</option>
+                        <option value="4">Very Good</option>
+                        <option value="3">Good</option>
+                        <option value="2">Fair</option>
+                        <option value="1">Poor</option>
+                    </select>
+    
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
         </div>
-    </div>
-   </section>
+    </section>
    <footer class="app-footer">
     <div class="app-info">
         <h3>CommunityCare</h3>
