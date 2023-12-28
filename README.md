@@ -15,8 +15,3 @@ Welcome to Community Care – Connecting Communities, Building Bonds!
 2. Sign up and create your community profile.
 3. Explore, connect, and make a positive impact!
 
-## Installation
-
-- [Download on the App Store](#)
-- [Get it on Google Play](#)
-
