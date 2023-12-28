@@ -11,7 +11,7 @@ Welcome to Community Care – Connecting Communities, Building Bonds!
 
 ## Get Started
 
-1. Download the app from this Website by clicking Download now Button or By scanning the QR code 
+1. Download the app from this Website by clicking {Download Now} button or By scanning the QR code 
 2. Sign up and create your community profile.
 3. Explore, connect, and make a positive impact!
 
